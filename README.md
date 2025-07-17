@@ -1,5 +1,7 @@
 # Bizagi_project
 
+*AS-IS MODEL WITH SCENARIOS*
+O2C Level 1:
 <img width="2580" height="2724" alt="AS-IS model with scenarios" src="https://github.com/user-attachments/assets/4a20df8d-6336-4b3b-a226-98157c3226cc" />
 <img width="4890" height="1620" alt="Level 2 -Orders registered by phone" src="https://github.com/user-attachments/assets/1df79798-1438-4491-aa54-8e57b5cabf8c" />
 <img width="3018" height="1216" alt="Level 2 -Orders registered by website" src="https://github.com/user-attachments/assets/18d85d14-b435-4f38-8cc4-36747c479d9f" />
