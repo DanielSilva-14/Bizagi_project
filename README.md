@@ -1,4 +1,5 @@
 # Bizagi_project
+Projeto de otimização de processos para a empresa de entregas Home Burger, utilizando BPM. Inclui a modelação de processos AS-IS, análise de ineficiências e o desenho de um modelo TO-BE melhorado.
 
 **AS-IS MODEL WITH SCENARIOS**
 
